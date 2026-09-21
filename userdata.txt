@@ -1,0 +1,9 @@
+coins 409
+bullets 18
+has_shield 0
+owned0 1
+owned1 1
+owned2 1
+equipped 0
+level2_unlocked 1
+level3_unlocked 1
