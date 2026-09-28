@@ -1,4 +1,4 @@
-#ifndef BG_LEVEL2_H
+ #ifndef BG_LEVEL2_H
 #define BG_LEVEL2_H
 
 #include "common.h"
