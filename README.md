@@ -67,17 +67,17 @@ Open the project in Visual Studio 2013
 
 ## ScreenShots
 
-Logo
+## Logo
 
 <img width="1600" height="918" alt="Logo" src="https://github.com/user-attachments/assets/024c990a-4d8d-4f36-b7bd-c4f812892582" />
 
 
-Menu
+## Menu
 
 <img width="1600" height="917" alt="menu" src="https://github.com/user-attachments/assets/c1348922-b333-4ec7-bf78-2c64a6a65310" />
 
 
-Gameplay
+## Gameplay
 
 <img width="1600" height="909" alt="level3" src="https://github.com/user-attachments/assets/55b7f820-7c67-433b-9911-1775f7f1f605" />
 
