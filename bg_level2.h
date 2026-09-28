@@ -3,7 +3,7 @@
 
 #include "common.h"
 
-double getEntityCenterXL2(float normX, double y) {
+ double getEntityCenterXL2(float normX, double y) {
 	double t = (double)(horizonYL2 - y) / horizonYL2;
 	if (t < 0.0) t = 0.0;
 	double leftRoadX = 395.0 - 335.0 * t;
