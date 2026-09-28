@@ -7,7 +7,7 @@
 ## Features
 - 3 playable levels: Station - Basabo, Station - Moghbazar, and Station - Aust.
 - Interactive comic-style bargaining story between passenger and rickshaw driver.
-- Garage system to unlock and equip upgraded rickshaws (Classic Blue, Deluxe Yellow, Super Green).
+- Garage system to unlock and equip upgraded rickshaws (Classic Blue, Deluxe Green , Super Red ).
 - Power-ups including an Energy Shield (15s invulnerability) and bullet shooting mechanic in Level 3.
 - Coin collection economy with persistent file save/load (`userdata.txt`).
 - Dynamic background music, traffic horns, and sound effects.
