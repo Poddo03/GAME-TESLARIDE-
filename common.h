@@ -365,7 +365,7 @@ float scrollSpeedL3 = 0.02f;
 float cloudOffsetL3 = 0.0f;
 float riverWaveOffsetL3 = 0.0f;
 
-// Player Speed & Life System Setup
+ // Player Speed & Life System Setup
 float baseSpeedL3 = 1.30f;       // Moderate cruising speed at startup
 float currentSpeedL3 = 1.30f;    // Active vehicle speed
 float maxSpeedL3 = 2.95f;        // Boosted top speed when holding UP
