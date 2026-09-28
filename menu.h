@@ -282,7 +282,7 @@ void drawStripedAwning(int x, int y, int w, int h, int r1, int g1, int b1, int r
 	iFilledRectangle(x, y - 3, w, 3);
 }
 
-static unsigned int logoTextureID = 0;
+ static unsigned int logoTextureID = 0;
 static bool logoAttemptedLoad = false;
 static int logoBlinkCounter = 0;
 
