@@ -74,7 +74,7 @@ int energyShieldCost = 15;          // Price: 15 Coins
 float activeShieldTimer = 0.0f;     // Active shield countdown timer in seconds
 #define SHIELD_DURATION 15.0f       // Shield lasts 15.0 seconds
 
-char* getEquippedRickshawFrame(int animIndex) {
+ char* getEquippedRickshawFrame(int animIndex) {
 	if (equippedRickshaw == 1 && ownedRickshaws[1]) {
 		return rickshawL2[animIndex % 9];
 	}
