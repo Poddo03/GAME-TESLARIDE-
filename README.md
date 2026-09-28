@@ -85,6 +85,9 @@ Open the project in Visual Studio 2013
 ## YouTube Link
 https://youtu.be/gGPFY5XjUaw
 
+## Project Report
+[Project_Report.pdf](https://github.com/user-attachments/files/32765357/Project_Report.pdf)
+
 
 
 
