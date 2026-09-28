@@ -1274,7 +1274,7 @@ void drawLevel2Scene() {
 	}
 
 	// Layer 2: Entities behind player rickshaw (y >= rickshawYL2)
-	for (int i = 0; i < totalEntities; i++) {
+ 	for (int i = 0; i < totalEntities; i++) {
 		if (entities[i].y >= rickshawYL2) {
 			int idx = entities[i].index;
 			if (entities[i].entityType == 0) {
