@@ -155,7 +155,7 @@ void drawRealisticTree(double baseX, double baseY, double scale, int variant) {
 }
 
 // Coconut Palm Tree
-void drawRealisticPalmTree(double baseX, double baseY, double scale, int variant) {
+ void drawRealisticPalmTree(double baseX, double baseY, double scale, int variant) {
 	if (scale <= 0.05) return;
 
 	double trunkH = 95.0 * scale;
